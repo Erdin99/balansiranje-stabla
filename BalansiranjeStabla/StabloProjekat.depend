@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1675092283 source:c:\users\korisnik\desktop\fakultet stvari\2 godina\3 semestar\strukture podataka i algoritmi\stabloprojekat-erdin idrizovic\stablo.cpp
+	"stablo.h"
+
+1675092768 c:\users\korisnik\desktop\fakultet stvari\2 godina\3 semestar\strukture podataka i algoritmi\stabloprojekat-erdin idrizovic\stablo.h
+	<iostream>
+	<vector>
+	"stablo.cpp"
+
+1675092773 c:\users\korisnik\desktop\fakultet stvari\2 godina\3 semestar\strukture podataka i algoritmi\stabloprojekat-erdin idrizovic\stablo.cpp
+	"stablo.h"
+
+1675092550 source:c:\users\korisnik\desktop\fakultet stvari\2 godina\3 semestar\strukture podataka i algoritmi\stabloprojekat-erdin idrizovic\main.cpp
+	<iostream>
+	"stablo.h"
+
